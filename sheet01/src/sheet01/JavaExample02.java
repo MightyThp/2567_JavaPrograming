@@ -19,8 +19,9 @@ public class JavaExample02 {
 		
 		JOptionPane.showMessageDialog(null, "Total price is "+frmtotalpriceproduct+" baht."
 											+"\nAdd VAt 7% is "+frmtotalwithvat+" baht.");
-		 
+		
  
 	}
  
 }
+ 
