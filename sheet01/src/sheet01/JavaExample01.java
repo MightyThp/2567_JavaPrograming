@@ -36,7 +36,7 @@ public class JavaExample01 {
 		System.out.println("Output using printf");
 		System.out.printf("Add VAt 7% is ", totalwithvat);
 		
-		input.close();
+		input.close(); 
  
 	}
  
