@@ -10,7 +10,6 @@ public class SalespersonSalary {
 		 final double COMMISSION_RATE = 0.15;
 		 final int SENTINEL = -1; // Terminating value for input
 		 
-		 // Declare variables
 		 int sales; // Input gross sales
 		 double salary; // Salary to be computed
 		 

@@ -23,8 +23,7 @@ public class Lab201 {
 		
 		if(isMember==JOptionPane.YES_OPTION) {
 			double priceAfterdiscount = totalPrice *0.90;
-			JOptionPane.showMessageDialog(null, "Amount to be paid is "+frm.format(priceAfterdiscount) +" baht.");
-			
+			JOptionPane.showMessageDialog(null, "Amount to be paid is "+frm.format(priceAfterdiscount) +" baht.");			
 		}else if (isMember==JOptionPane.NO_OPTION) {
 			double priceAfterdiscount = totalPrice *0.90;
 			JOptionPane.showMessageDialog(null, "Amount to be paid is "+totalPrice +" baht.");
