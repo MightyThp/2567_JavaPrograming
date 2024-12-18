@@ -1,4 +1,4 @@
 StudentID:2413110327
 StudentName: Thanapon Tongkanluang
-Topic: string method
-Date:12/11/2024
+Topic: Method
+Date:12/18/2024
