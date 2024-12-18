@@ -7,6 +7,7 @@ public class Lab305 {
 		Scanner input = new Scanner(System.in);
 
 		System.out.print("Input some sentence : ");
+		
 		String inputMassgae = input.nextLine();
 
 		while (!inputMassgae.endsWith(".")) {

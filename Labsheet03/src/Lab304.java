@@ -19,6 +19,7 @@ public class Lab304 {
             String lastName = fullName.substring(spaceIndex + 1); 
      
             firstName = firstName.toUpperCase();
+            
             lastName = lastName.toLowerCase();
             
             System.out.println("First Name: " + firstName);
