@@ -1,4 +1,4 @@
 StudentID:2413110327
 StudentName: Thanapon Tongkanluang
-Topic: Encapsulation Conceplt
-Date:01/22/2025
+Topic:Array Object
+Date:01/29/2025
