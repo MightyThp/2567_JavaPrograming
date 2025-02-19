@@ -1,4 +1,4 @@
 StudentID:2413110327
 StudentName: Thanapon Tongkanluang
-Topic:Array Object
-Date:01/29/2025
+Topic:inheritance concept
+Date:02/19/2025
